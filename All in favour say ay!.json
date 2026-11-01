@@ -1,0 +1,38 @@
+[
+    {
+        "id":"_meta",
+        "author":"Aurora Aquir",
+        "name":"All in favour say ay!",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    "knight",
+    "noble",
+    "chef",
+    "empath",
+    "village_idiot",
+    "balloonist",
+    "town_crier",
+    "amnesiac",
+    "nightwatchman",
+    "philosopher",
+    "huntsman",
+    "alchemist",
+    "virgin",
+    
+    "snitch",
+    "puzzlemaster",
+    "zealot",
+    "damsel",
+    "drunk",
+    "politician",
+    
+    "poisoner",
+    "fearmonger",
+    "assassin",
+    "baron",
+    "goblin",
+    
+    "leviathan"
+]

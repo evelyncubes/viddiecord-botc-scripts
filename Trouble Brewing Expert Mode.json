@@ -1,0 +1,38 @@
+[
+    {
+        "id":"_meta",
+        "author":"The Pandemonium Institute",
+        "name":"Trouble Brewing Expert Mode",
+        "background":"https://i.imgur.com/lczK9A0.png"
+    },
+    
+    {"id": "washerwoman"},
+    {"id": "librarian"}, 
+    {"id": "investigator"}, 
+    {"id": "chef"}, 
+    {"id": "empath"}, 
+    {"id": "fortune_teller"}, 
+    {"id": "undertaker"}, 
+    {"id": "monk"}, 
+    {"id": "ravenkeeper"}, 
+    {"id": "virgin"}, 
+    {"id": "slayer"}, 
+    {"id": "soldier"}, 
+    {"id": "mayor"},
+    "atheist", 
+
+    {"id": "butler"}, 
+    {"id": "drunk"}, 
+    {"id": "recluse"}, 
+    {"id": "saint"},
+    "lunatic", 
+
+    {"id": "poisoner"}, 
+    {"id": "spy"}, 
+    {"id": "scarlet_woman"}, 
+    {"id": "baron"},
+    "marionette", 
+
+    {"id": "imp"},
+    "legion"
+]

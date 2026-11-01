@@ -1,0 +1,40 @@
+[
+    {
+        "id":"_meta",
+        "author":"Unnamed",
+        "name":"Beyond the Veil",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    "investigator",
+    "clockmaker",
+    "empath",
+    "preacher",
+    "snake_charmer",
+    "fortune_teller",
+    "town_crier",
+    "oracle",
+    "innkeeper",
+    "juggler",
+    "nightwatchman",
+    "seamstress",
+    "ravenkeeper",
+    
+    "saint",
+    "sweetheart",
+    "plague_doctor",
+    "drunk",
+    "politician",
+    
+    "witch",
+    "cerenovus",
+    "baron",
+    "marionette",
+    
+    "imp",
+    "vigormortis",
+    "fang_gu",
+    
+    "storm_catcher"
+]

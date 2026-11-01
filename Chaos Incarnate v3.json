@@ -1,0 +1,39 @@
+[
+        {
+                "id":"_meta",
+                "author":"Corrosive",
+                "name":"Chaos Incarnate v3",
+                "logo":"https://i.imgur.com/rudcZcn.png",
+                "background":"https://i.imgur.com/81MBe3A.jpg"
+        },
+        
+        {"id":"general"},
+        {"id":"philosopher"},
+        {"id":"savant"},
+        {"id":"gossip"},
+        {"id":"artist"},
+        {"id":"magician"},
+        {"id":"cannibal"},
+        {"id":"alchemist"},
+        {"id":"gambler"},
+        {"id":"pixie"},
+        {"id":"innkeeper"},
+        {"id":"monk"},
+        {"id":"snake_charmer"},
+        
+        {"id":"drunk"},
+        {"id":"lunatic"},
+        {"id":"politician"},
+        {"id":"goon"},
+        
+        {"id":"cerenovus"},
+        {"id":"pit-hag"},
+        {"id":"godfather"},
+        {"id":"poisoner"},
+        {"id":"wizard"},
+        
+        {"id":"fang_gu"},
+        {"id":"pukka"},
+        {"id":"ojo"},
+        {"id":"zombuul"}
+]

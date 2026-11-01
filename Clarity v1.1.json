@@ -1,0 +1,38 @@
+[
+    {
+        "id":"_meta",
+        "author":"Aurora Aquir",
+        "name":"Clarity",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+
+    "chef",
+    "washerwoman",
+    "bounty_hunter",
+    "chambermaid",
+    "balloonist",
+    "flowergirl",
+    "gambler",
+    "monk",
+    "gossip",
+    "artist",
+    "fisherman",
+    "soldier",
+    "pacifist",
+
+    "snitch",
+    "tinker",
+    "klutz",
+    "hatter",
+    
+    "godfather",
+    "devils_advocate",
+    "assassin",
+    "scarlet_woman",
+    
+    "yaggababble",
+    "lil_monsta",
+    "imp",
+    "fang_gu"
+]

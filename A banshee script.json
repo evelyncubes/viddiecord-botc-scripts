@@ -1,0 +1,38 @@
+[
+    {
+        "id":"_meta",
+        "author":"Unnamed",
+        "name":"A banshee script",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    "knight",
+    "pixie",
+    "empath",
+    "preacher",
+    "dreamer",
+    "king",
+    "fortune_teller",
+    "oracle",
+    "monk",
+    "seamstress",
+    "philosopher",
+    "choirboy",
+    "banshee",
+    
+    "plague_doctor",
+    "recluse",
+    "damsel",
+    "klutz",
+    "drunk",
+    
+    "poisoner",
+    "spy",
+    "cerenovus",
+    "mezepheles",
+    
+    "imp",
+    "vigormortis",
+    "fang_gu"
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id":"_meta",
+        "author":"patters",
+        "name":"funny script",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    {"id": "washerwoman"},
+    {"id": "librarian"}, 
+    {"id": "investigator"}, 
+    {"id": "chef"}, 
+    {"id": "empath"}, 
+    {"id": "fortune_teller"}, 
+    {"id": "undertaker"}, 
+    {"id": "monk"}, 
+    {"id": "ravenkeeper"}, 
+    {"id": "virgin"}, 
+    {"id": "slayer"}, 
+    {"id": "soldier"}, 
+    {"id": "mayor"}, 
+
+    {"id": "goon"}, 
+    {"id": "lunatic"}, 
+    {"id": "moonchild"}, 
+    {"id": "tinker"}, 
+
+    {"id": "witch"}, 
+    {"id": "cerenovus"}, 
+    {"id": "pithag"}, 
+    {"id": "widow"}, 
+
+    {"id": "kazali"},
+    {"id": "yaggababble"},
+    {"id": "lleech"},
+    {"id": "ojo"}
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id":"_meta",
+        "author":"Corrosive",
+        "name":"Summoning Sickness v2",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    "noble",
+    "librarian",
+    "shugenja",
+    "empath",
+    "sailor",
+    "chambermaid",
+    "balloonist",
+    "innkeeper",
+    "gambler",
+    "amnesiac",
+    "artist",
+    "alchemist",
+    "tea_lady",
+
+    "goon",
+    "damsel",
+    "drunk",
+    "moonchild",
+
+    "godfather",
+    "devils_advocate",
+    "summoner",
+    "assassin",
+
+    "yaggababble",
+    "lleech",
+    "po",
+    "zombuul"
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "id":"_meta",
+        "author":"Aurora Aquir",
+        "name":"The Final Problem",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    "knight",
+    "investigator",
+    "clockmaker",
+    "pixie",
+    "high_priestess",
+    "balloonist",
+    "mathematician",
+    "cult_leader",
+    "flowergirl",
+    "town_crier",
+    "alsaahir",
+    "soldier",
+    "farmer",
+    
+    "recluse",
+    "damsel",
+    "drunk",
+    "barber",
+    
+    "widow",
+    "poisoner",
+    "harpy",
+    "baron",
+    "goblin",
+    
+    "kazali",
+    "pukka",
+    "lil_monsta",
+    "vigormortis"
+]

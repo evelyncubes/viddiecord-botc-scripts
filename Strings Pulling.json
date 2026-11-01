@@ -1,0 +1,36 @@
+[
+    {
+        "id":"_meta",
+        "author":"Ben Burns",
+        "name":"Strings Pulling",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+
+    "chef",
+    "investigator",
+    "washerwoman",
+    "librarian",
+    "empath",
+    "fortune_teller",
+    "undertaker",
+    "monk",
+    "slayer",
+    "soldier",
+    "ravenkeeper",
+    "virgin",
+    "mayor",
+
+    "butler",
+    "saint",
+    "recluse",
+    "drunk",
+
+    "poisoner",
+    "spy",
+    "baron",
+    "scarlet_woman",
+    "marionette",
+    
+    "imp"
+]

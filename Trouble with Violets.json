@@ -1,0 +1,38 @@
+[
+    {
+        "id":"_meta",
+        "author":"Ben Burns",
+        "name":"Trouble with Violets",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    "chef",
+    "investigator",
+    "washerwoman",
+    "librarian",
+    "empath",
+    "fortune_teller",
+    "undertaker",
+    "monk",
+    "slayer",
+    "soldier",
+    "ravenkeeper",
+    "virgin",
+    "mayor",
+    
+    "ogre",
+    "saint",
+    "recluse",
+    "drunk",
+    
+    "widow",
+    "witch",
+    "cerenovus",
+    "pit-hag",
+    
+    "no_dashii",
+    "vortox",
+    "vigormortis",
+    "fang_gu"
+]

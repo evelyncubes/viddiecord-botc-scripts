@@ -1,0 +1,40 @@
+[
+    {
+        "id":"_meta",
+        "author":"Unnamed",
+        "name":"Peer Reviewed v5.4",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    "noble",
+    "shugenja",
+    "pixie",
+    "empath",
+    "high_priestess",
+    "village_idiot",
+    "oracle",
+    "savant",
+    "amnesiac",
+    "artist",
+    "seamstress",
+    "philosopher",
+    "farmer",
+
+    "recluse",
+    "mutant",
+    "klutz",
+    "drunk",
+    "politician",
+
+    "widow",
+    "harpy",
+    "cerenovus",
+    "fearmonger",
+
+    "no_dashii",
+    "imp",
+    "fang_gu",
+
+    "bootlegger"
+]

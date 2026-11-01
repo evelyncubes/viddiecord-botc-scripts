@@ -1,0 +1,45 @@
+[
+    {
+        "author":"Unnamed",
+        "name":"BMR + 3",
+        "isOfficial":false,
+        "id":"_meta",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+
+    {"id":"grandmother"},
+    {"id":"sailor"},
+    {"id":"chambermaid"},
+    {"id":"innkeeper"},
+    {"id":"gambler"},
+    {"id":"exorcist"},
+    {"id":"gossip"},
+    {"id":"courtier"},
+    {"id":"professor"},
+    {"id":"fool"},
+    {"id":"pacifist"},
+    {"id":"tealady"},
+    {"id":"farmer"},
+    {"id":"minstrel"},
+    {"id":"cannibal"},
+
+    {"id":"goon"},
+    {"id":"acrobat"},
+    {"id":"tinker"},
+    {"id":"moonchild"},
+    {"id":"lunatic"},
+
+    {"id":"godfather"},
+    {"id":"devilsadvocate"},
+    {"id":"summoner"},
+    {"id":"assassin"},
+    {"id":"mastermind"},
+
+    {"id":"pukka"},
+    {"id":"lleech"},
+    {"id":"shabaloth"},
+    {"id":"po"},
+    {"id":"zombuul"}
+
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id":"_meta",
+        "author":"Aurora Aquir",
+        "name":"Trouble Brewing XB",
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/lczK9A0.png"
+    },
+
+    "chef",
+    "investigator",
+    "washerwoman",
+    "librarian",
+    "empath",
+    "fortune_teller",
+    "undertaker",
+    "monk",
+    "slayer",
+    "soldier",
+    "ravenkeeper",
+    "virgin",
+    "mayor",
+
+    "saint",
+    "sweetheart",
+    "recluse",
+    "drunk",
+
+    "poisoner",
+    "spy",
+    "baron",
+    "scarlet_woman",
+    
+    "kazali"
+]

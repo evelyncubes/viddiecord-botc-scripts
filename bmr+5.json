@@ -1,0 +1,85 @@
+[
+    {
+        "id":"_meta",
+        "name":"BMR + 5",
+        "author":"Unnamed",
+        "isOfficial":false,
+        "logo":"https://i.imgur.com/rudcZcn.png",
+        "background":"https://i.imgur.com/81MBe3A.jpg"
+    },
+    
+    {"id":"grandmother"},
+    {"id":"sailor"},
+    {"id":"chambermaid"},
+    {"id":"innkeeper"},
+    {"id":"gambler"},
+    {"id":"exorcist"},
+    {"id":"gossip"},
+    {
+        "id": "courtier2",
+        "name": "Courtier",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/img/courtier_g.73bc8e54.webp",
+            "https://botc.app/img/courtier_e.511ff974.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 19,
+        "firstNightReminder": "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk.",
+        "otherNight": 8,
+        "otherNightReminder": "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk.",
+        "reminders": ["Drunk 3",
+            "Drunk 2",
+            "Drunk 1",
+            "No ability"],
+        "setup": false,
+        "ability": "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days.",
+        "jinxes": [
+            {"id": "summoner", "reason": "If the Courtier chooses the Summoner, the Summoner's night counter will not increase while they are drunk."}
+        ]
+    },
+    {"id":"professor"},
+    {"id":"fool"},
+    {"id":"pacifist"},
+    {"id":"tealady"},
+    {"id":"farmer"},
+    {"id":"minstrel"},
+    {"id":"cannibal"},
+
+    {
+        "id": "goon2",
+        "name": "Goon",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/img/goon_g.ff3bcc65.webp",
+            "https://botc.app/img/goon_e.16db3470.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": ["Drunk"],
+        "setup": false,
+        "ability": "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment.",
+        "jinxes": [
+            {"id": "summoner", "reason": "If the Summoner chooses the Goon to become the Demon, the Demon is decided by the Storyteller instead."}
+        ]
+    },
+    {"id":"acrobat"},
+    {"id":"tinker"},
+    {"id":"moonchild"},
+    {"id":"lunatic"},
+
+    {"id":"godfather"},
+    {"id":"devilsadvocate"},
+    {"id":"summoner"},
+    {"id":"assassin"},
+    {"id":"mastermind"},
+
+    {"id":"pukka"},
+    {"id":"lleech"},
+    {"id":"shabaloth"},
+    {"id":"po"},
+    {"id":"zombuul"}
+]
